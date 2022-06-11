@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`快照测试: 生成快照 1`] = `
+Object {
+  "baseUrl": "./",
+  "date": Any<Date>,
+  "dir": "/dist",
+  "filename": "testFile",
+}
+`;
